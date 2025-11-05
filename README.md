@@ -47,6 +47,12 @@
 
 🌑 Developer Rank: B-Rank ➤ Rising toward S-Rank
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRvemF0MWR0YjR6bHkxa21oc3c2dzNzMWR0c2hmdnk2aXRydmJnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0d1OI53gvrsQMFJrMe/giphy.gif" width="50%" /> </p> <p align="center"><i>"Leveling Up!!!!."</i></p> ```
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRvemF0MWR0YjR6bHkxa21oc3c2dzNzMWR0c2hmdnk2aXRydmJnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0d1OI53gvrsQMFJrMe/giphy.gif" width="50%" /> </p> <p align="center"><i>"Leveling Up!!!!."</i></p> 
+
+
+🎧 Now Playing (Spotify)
+<p align="center"> <a href="https://open.spotify.com/user/"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing" /> </a> </p>
+
+🕶️ Music keeps the Shadow focused.
 
 
