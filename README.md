@@ -48,3 +48,6 @@
 🌑 Developer Rank: B-Rank ➤ Rising toward S-Rank
 
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRvemF0MWR0YjR6bHkxa21oc3c2dzNzMWR0c2hmdnk2aXRydmJnOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/0d1OI53gvrsQMFJrMe/giphy.gif" width="50%" /> </p> <p align="center"><i>"Leveling Up!!!!."</i></p> ```
+
+
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-sp-dev&show_icons=true&theme=radical)
